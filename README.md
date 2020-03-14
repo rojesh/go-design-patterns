@@ -19,4 +19,4 @@ To get started with them and learn more with examples, Creational Design Pattern
   4. **Prototype**
       This design pattern specifies the kind of objects to create using a prototypical instance, and create new objects by copying this prototype.
 
-  [Here](https://medium.com/@rojace.shrestha/creational-design-pattern-in-go-b78cce98f328) is also a blog post for further exploration about Creational Design Pattern.
+  [Here](https://medium.com/@rojace.shrestha/creational-design-pattern-in-go-b78cce98f328) is also a blog post for further exploration about Creational Design Pattern..
